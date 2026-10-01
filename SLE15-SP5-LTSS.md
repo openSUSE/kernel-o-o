@@ -4,7 +4,7 @@ redirect_from: /branches/SLE15-SP5-LTSS/
 ---
 # SLE15-SP5-LTSS
 The persons in charge of this branch are:
-Tom Abraham <[tabraham@suse.com](mailto:tabraham@suse.com?subject=SLE15-SP5-LTSS%20branch)>
+Ali Abdallah <[ali.abdallah@suse.com](mailto:ali.abdallah@suse.com?subject=SLE15-SP5-LTSS%20branch)>
 Jean Delvare <[jdelvare@suse.com](mailto:jdelvare@suse.com?subject=SLE15-SP5-LTSS%20branch)>
 
 It is the above persons' responsiblity for checking in this kernel to
