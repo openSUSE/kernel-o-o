@@ -8,6 +8,7 @@ Jean Delvare <[jdelvare@suse.com](mailto:jdelvare@suse.com?subject=SLE12-SP5%20b
 Lidong Zhong <[lidong.zhong@suse.com](mailto:lidong.zhong@suse.com?subject=SLE12-SP5%20branch)>
 Tom Abraham <[tabraham@suse.com](mailto:tabraham@suse.com?subject=SLE12-SP5%20branch)>
 Ales Novak <[alnovak@suse.com](mailto:alnovak@suse.com?subject=SLE12-SP5%20branch)>
+Ali Abdallah <[ali.abdallah@suse.com](mailto:ali.abdallah@suse.com?subject=SLE12-SP5%20branch)>
 
 It is the above person's responsiblity for checking in this kernel to
 the build system, anyone else who wishes to do so, needs to get
