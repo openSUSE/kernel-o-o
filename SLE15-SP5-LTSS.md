@@ -6,6 +6,7 @@ redirect_from: /branches/SLE15-SP5-LTSS/
 The persons in charge of this branch are:
 Ali Abdallah <[ali.abdallah@suse.com](mailto:ali.abdallah@suse.com?subject=SLE15-SP5-LTSS%20branch)>
 Jean Delvare <[jdelvare@suse.com](mailto:jdelvare@suse.com?subject=SLE15-SP5-LTSS%20branch)>
+Lidong Zhong <[lidong.zhong@suse.com](mailto:lidong.zhong@suse.com?subject=SLE15-SP5-LTSS%20branch)>
 
 It is the above persons' responsiblity for checking in this kernel to
 the build system, anyone else who wishes to do so, needs to get
