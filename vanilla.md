@@ -36,7 +36,7 @@ kernel on SLES 11.
 ## [kernel-source.git](https://github.com/openSUSE/kernel-source/tree/vanilla)
 There are two SUSE Kernel repositories. Development happens in the
 [kernel-source](https://github.com/openSUSE/kernel-source/tree/vanilla)
-git repository. This tree is a quile-like series of patches against the
+git repository. This tree is a quilt-like series of patches against the
 upstream kernel, plus spec files and various scripts. You can clone it
 with
 
